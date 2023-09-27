@@ -2,6 +2,10 @@
 
 Este documento proporciona una visión general del código de una aplicación Express que se conecta a una base de datos utilizando Sequelize y ofrece endpoints para acceder a información de un catálogo de contenidos multimedia.
 
+# Diagrama base de datos
+
+![Modelo entidad relacion de trailerflix] (eer\trailerflixEER.svg)
+
 ## Requisitos Previos
 
 Asegúrate de tener instaladas las siguientes dependencias:
